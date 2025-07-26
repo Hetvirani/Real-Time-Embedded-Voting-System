@@ -82,16 +82,17 @@ Real-Time-Embedded-Voting-System/
 ```bash
 git clone https://github.com/<your-username>/Real-Time-Embedded-Voting-System.git
 cd Real-Time-Embedded-Voting-System
-🚀 How to Run the Project
+
+
+### 🚀 How to Run the Project
+
 🛠️ Step-by-Step Instructions
 1. Open Proteus
 Navigate to: src/Real_Time_Embedded_Voting_System.PDSPRJ
-
 Double-click to open the project in Proteus
 
 2. Start Simulation
 Press the "Run" button in Proteus
-
 Use the Keypad to input roll number and vote
 
 3. Voting Flow
@@ -100,11 +101,8 @@ Input Roll No → Vote for Head Girl (1 or 2) → Vote for Head Boy (1 or 2)
 4. Admin View
 Press the Admin Button → View results and percentages on LCD and LED bars
 
-📈 Output Walkthrough
+### 📈 Output Walkthrough
 👨‍🎓 Voter Mode
-makefile
-Copy
-Edit
 WELCOME !!
 ID:12
 headgirl voting
@@ -124,28 +122,25 @@ om: 4      het: 4
 
 💡 LED Bar Graphs:
 🟩 Green LEDs (PORTB): Head Girl votes
-
 🟥 Red LEDs (PORTD): Head Boy votes
 
-🧠 Circuit Design
+### 🧠 Circuit Design
+
 🔌 Components Used
 ✅ ATmega2560 Microcontroller
-
 ✅ 16x2 LCD (PORTC)
-
 ✅ 4x3 Keypad (PORTA)
-
 ✅ 2 Push Buttons (for Voter/Admin Mode)
-
 ✅ LED Bar Graphs (PORTB & PORTD)
 
-🙋‍♂️ Author Info
+
+### 🙋‍♂️ Author Info
 👤 Het Virani
 📧 hetvirani1305@gmail.com
 🔗 LinkedIn | GitHub
 
-🔐 License
+### 🔐 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-🏷️ Tags
+### 🏷️ Tags
 #ATmega2560 #Proteus #EmbeddedC #VotingMachine #AVR #EngineeringProject #LCD #Keypad
