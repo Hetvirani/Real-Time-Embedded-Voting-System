@@ -16,7 +16,6 @@
 - [📈 Output Walkthrough](#-output-walkthrough)
 - [🧠 Circuit Design](#-circuit-design)
 - [🙋‍♂️ Developer Info](#-author-info)
-- [🔐 License](#-license)
 - [🏷️ Tags](#-tags)
 
 ---
