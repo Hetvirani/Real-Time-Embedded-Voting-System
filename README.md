@@ -15,7 +15,7 @@
 - [🚀 How to Run the Project](#-how-to-run-the-project)
 - [📈 Output Walkthrough](#-output-walkthrough)
 - [🧠 Circuit Design](#-circuit-design)
-- [🙋‍♂️ Author Info](#-author-info)
+- [🙋‍♂️ Developer Info](#-author-info)
 - [🔐 License](#-license)
 - [🏷️ Tags](#-tags)
 
