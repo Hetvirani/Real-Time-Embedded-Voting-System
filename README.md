@@ -158,18 +158,11 @@ om: 4      het: 4
 
 ---
 
-## 🙋‍♂️ Author Info
+## 🙋‍♂️ Developer Info
 
 👤 **Het Virani**  
 📧 [hetvirani1305@gmail.com](mailto:hetvirani1305@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/het-virani) | [GitHub](https://github.com/hetvirani)
-
----
-
-## 🔐 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for more details.
 
 ---
 
